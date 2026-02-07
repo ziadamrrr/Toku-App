@@ -14,3 +14,4 @@ A simple Flutter application to learn basic Japanese vocabulary with pronunciati
 
 ## Demo Video
 
+https://github.com/user-attachments/assets/2f5a79ef-59a9-418a-9949-6ed1fd8249e6
