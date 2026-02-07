@@ -1,4 +1,4 @@
-# Toku App 🇯🇵📱
+# Toku App
 
 A simple Flutter application to learn basic Japanese vocabulary with pronunciation.
 
